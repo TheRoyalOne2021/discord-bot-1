@@ -10,4 +10,4 @@ after discord.js installs, run "node index"
 
 bot should go online as soon as "node index" is executed
 
-replace " const channelId = '' " with your ticket channel ID in "ticket.js"
+replace ( const channelId = '' ) with your ticket channel ID in "ticket.js"
