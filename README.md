@@ -1,7 +1,7 @@
 # discord-bot-1
 a multipurpose discord bot in progress
 
-requirements - discord.js, node.js v13+, npm
+requirements - discord.js, fs, node.js v13+, npm
 
 copy/paste your bots token within the empty "", section of "config.json"
 
