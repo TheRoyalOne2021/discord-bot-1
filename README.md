@@ -10,3 +10,5 @@ to run: cd into the bot directory then execute "npm install discordjs fs discord
 bot should go online as soon as "node index" is executed
 
 replace channelId with your ticket channel ID in "ticket.js"
+
+mute command requires role called "muted" and assumes permissions are already set for the role
