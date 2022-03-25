@@ -5,7 +5,7 @@ requirements - discord.js, discord-rpc, fs, node.js v13+, npm, discord.js-comman
 
 copy/paste your bots token in the token section of ".env"
 
-to run: cd into the bot directory then execute "npm install discordjs fs discord-rpc" then after installation is complete execute "node index"
+to run: cd into the bot directory then install the dependencies and after installation is complete execute "node index"
 
 bot should go online as soon as "node index" is executed
 
