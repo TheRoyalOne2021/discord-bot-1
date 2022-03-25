@@ -1,3 +1,4 @@
+![Untitled1](https://user-images.githubusercontent.com/78038416/160035221-80e3abd7-844e-4535-87d1-77126751ee32.png)
 # discord-bot-1
 a multipurpose discord bot in progress
 
