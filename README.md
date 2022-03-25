@@ -3,7 +3,7 @@ a multipurpose discord bot in progress
 
 requirements - discord.js, discord-rpc, fs, node.js v13+, npm
 
-copy/paste your bots token in the token section of "config.json"
+copy/paste your bots token in the token section of ".env"
 
 to run: cd into the bot directory then execute "npm install discordjs fs discord-rpc" then after installation is complete execute "node index"
 
