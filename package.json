@@ -1,0 +1,22 @@
+{
+  "name": "RoyalBot",
+  "version": "1.0.6",
+  "description": "A multipurpose bot in progress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TheRoyalOne2021",
+  "license": "GPL",
+  "dependencies": {
+    "discord-rich-presence": "^0.0.8",
+    "discord-rpc": "^4.0.1",
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.12.3",
+    "fs": "^0.0.1-security",
+    "mongoose": "^5.9.24",
+    "node-fetch": "^3.2.3",
+    "redis": "^3.0.2"
+  }
+}
