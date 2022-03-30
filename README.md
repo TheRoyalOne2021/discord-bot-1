@@ -13,3 +13,5 @@ bot should go online as soon as "node index" is executed
 replace channelId with your ticket channel ID in "ticket.js"
 
 mute command requires role called "muted" and assumes permissions are already set for the role
+
+default prefix is "$" because it conflicts the least, can be changed within ./assets/config.json
